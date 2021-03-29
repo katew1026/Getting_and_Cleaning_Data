@@ -8,13 +8,13 @@ The first two columns - Subject and Activity - are Identifiers.
 ## Measurements
 As mentioned above,the variables remaining are just the calculatd means and standard deviations of these sets of data: (Even if I do not give a detailed description of what each data value means, you can see what it means by comparing it with the original data column.)
 
-`tBodyAccMeanX`
-`tBodyAccMeanY`
-`tBodyAccMeanZ`
-`tBodyAccStdX`
-`tBodyAccStdY`
-`tBodyAccStdZ`
-`tGravityAccMeanX`
+* `tBodyAccMeanX`
+* `tBodyAccMeanY`
+* `tBodyAccMeanZ`
+* `tBodyAccStdX`
+* `tBodyAccStdY`
+* `tBodyAccStdZ`
+* `tGravityAccMeanX`
 `tGravityAccMeanY`
 `tGravityAccMeanZ`
 `tGravityAccStdX`
